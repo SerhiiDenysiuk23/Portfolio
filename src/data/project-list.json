@@ -1,0 +1,125 @@
+[
+  {
+    "name": "Time Tracker",
+    "description": "This is a time-tracker web application. I have been working on a list of users with search, sorting, pagination and export to XLSX/PDF.",
+    "githubLink": "https://github.com/lyamo-lme/TimeTrackerWebApp",
+    "screenshotUrl": "./media/screenshots/time-tracker.jpg",
+    "stack": [
+      "TypeScript",
+      "React",
+      "Redux",
+      "RxJS",
+      "redux-observable",
+      "GraphQL",
+      "SCSS",
+      "ASP.Net",
+      "GraphQL",
+      "Dapper",
+      "MS SQL"
+    ]
+  },
+  {
+    "name": "Space News",
+    "description": "A website where you can view the latest news in space.",
+    "deployLink": "https://spacenewssite.netlify.app",
+    "githubLink": "https://github.com/SerhiiDenysiuk23/space-news-react",
+    "screenshotUrl": "./media/screenshots/space-news.png",
+    "stack": [
+      "TypeScript",
+      "React",
+      "Redux",
+      "RxJS",
+      "redux-observable",
+      "SCSS"
+    ]
+  },
+  {
+    "name": "Exchange Rates",
+    "description": "A website where you can calculate the amount from one currency to another at the current rate of the NBU.",
+    "deployLink": "https://exchangeratesreact.netlify.app/",
+    "githubLink": "https://github.com/SerhiiDenysiuk23/Exchange-rates-react",
+    "screenshotUrl": "./media/screenshots/exchange-rates.png",
+    "stack": [
+      "TypeScript",
+      "React",
+      "Redux",
+      "CSS"
+    ]
+  },
+  {
+    "name": "To Do List",
+    "description": "A web application in which you can edit, delete and create tasks with a name, description, category selection and deadline (all optional). You can also create your own categories.",
+    "githubLink": "https://github.com/SerhiiDenysiuk23/ToDoList",
+    "screenshotUrl": "./media/screenshots/todolist.png",
+    "stack": [
+      "TypeScript",
+      "React",
+      "Redux",
+      "RxJS",
+      "redux-observable",
+      "GraphQL",
+      "SCSS",
+      "ASP.Net MVC",
+      "GraphQL",
+      "Dapper",
+      "MS SQL"
+    ]
+  },
+  {
+    "name": "UA DNA",
+    "description": "Volunteer project, which is designed to introduce people to Ukrainian culture. I worked on sections: PLACES, BRANDS, SOLUTIONS. The project is currently on pause due to reasons beyond our control.",
+    "deployLink": "https://digitaldreamvolonteerproject.netlify.app/",
+    "githubLink": "https://github.com/SerhiiDenysiuk23/DigitalDreamVolonteerProject",
+    "screenshotUrl": "./media/screenshots/ua-dna.png",
+    "stack": [
+      "TypeScript",
+      "React",
+      "Apollo Client",
+      "SCSS",
+      "GraphQL"
+    ]
+  },
+  {
+    "name": "Pokedex",
+    "description": "A website where you can see a list of Pokemon with their name, avatar, type and the basic stats.",
+    "deployLink": "https://luxury-squirrel-17d2ba.netlify.app/",
+    "githubLink": "https://github.com/SerhiiDenysiuk23/pokedex",
+    "screenshotUrl": "./media/screenshots/pokedex.png",
+    "stack": [
+      "TypeScript",
+      "React",
+      "SCSS"
+    ]
+  },
+  {
+    "name": "D&L",
+    "description": "Restaurant website where you can view the menu and order delivery. My task was to completely develop the frontend from a figma layout. The project is currently on pause at the request of the customer.",
+    "deployLink": "https://deft-zabaione-f4be32.netlify.app/",
+    "screenshotUrl": "./media/screenshots/d_and_l.png",
+    "stack": [
+      "TypeScript",
+      "React",
+      "SCSS"
+    ]
+  },
+  {
+    "name": "Money Tracker",
+    "description": "This is a money manager - web application for control your expenses and incomes. I worked on the ui/ux of the application, categories and implemented budgets.",
+    "deployLink": "https://money-tracker-production-7a87.up.railway.app/",
+    "githubLink": "https://github.com/botanick02/Money-Tracker",
+    "screenshotUrl": "./media/screenshots/money-tracker.png",
+    "stack": [
+      "TypeScript",
+      "React",
+      "Redux",
+      "RxJS",
+      "redux-observable",
+      "GraphQL",
+      "SCSS",
+      "ASP.Net",
+      "GraphQL",
+      "Dapper",
+      "MS SQL"
+    ]
+  }
+]

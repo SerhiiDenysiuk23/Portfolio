@@ -1,0 +1,49 @@
+@import "vars";
+
+.skill-filter {
+  width: 50%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+
+  > div {
+    width: 100%;
+    text-align: center;
+    padding: .5em;
+    cursor: pointer;
+
+    &.active {
+      border-bottom: 1px solid $primary-font-color;
+    }
+  }
+
+  @media screen and (max-width: 884px) {
+    width: 100%;
+  }
+}
+
+.skills-table {
+  display: flex;
+  padding: 50px 0;
+  gap: 1em;
+  justify-content: space-between;
+}
+
+.skills-table1 {
+  display: flex;
+  padding: 50px 0;
+  //gap: 2em;
+  row-gap: 2em;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  div{
+    width: 25%;
+  }
+}
+
+.column {
+  //line-height: 2em;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}

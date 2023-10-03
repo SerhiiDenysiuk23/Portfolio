@@ -1,0 +1,19 @@
+#about-me {
+  padding: 5em 0;
+  .welcome{
+    font-size: 3em;
+    margin-bottom: .5em;
+  }
+
+  .text{
+    width: 50%;
+    text-align: justify;
+    padding: 5em;
+    @media screen and (max-width: 1000px){
+      width: 100%;
+    }
+    @media screen and (max-width: 549px){
+      padding: 5em 0;
+    }
+  }
+}
