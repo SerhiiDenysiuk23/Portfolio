@@ -36,7 +36,7 @@ const Skills = () => {
         return
     }
 
-    const rowCount = Math.ceil(pickedList.length / columnCount);
+    const rowCount = Math.round(pickedList.length / columnCount);
     setColumns(Array.from({length: columnCount}, (_, i) =>
         pickedList.slice(i * rowCount, (i + 1) * rowCount)
       )
@@ -70,12 +70,6 @@ const Skills = () => {
           </div>
         ))}
       </div>
-
-      {/*<div className="skills-table1">*/}
-      {/*  {*/}
-      {/*    fe_skills.map((item) => <div key={item}>{item}</div>)*/}
-      {/*  }*/}
-      {/*</div>*/}
     </section>
   );
 };
