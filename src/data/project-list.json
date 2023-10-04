@@ -48,7 +48,7 @@
   },
   {
     "name": "To Do List",
-    "description": "A web application in which you can edit, delete and create tasks with a name, description, category selection and deadline (all optional). You can also create your own categories.",
+    "description": "A web application in which you can edit, delete and create tasks with a name, description, category selection and deadline (all optional). You can also create your own categories. Initially the project was implemented using ASP.Net MVC, but then GraphQL and React were added.",
     "githubLink": "https://github.com/SerhiiDenysiuk23/ToDoList",
     "screenshotUrl": "./media/screenshots/todolist.png",
     "stack": [
@@ -67,7 +67,7 @@
   },
   {
     "name": "UA DNA",
-    "description": "Volunteer project, which is designed to introduce people to Ukrainian culture. I worked on sections: PLACES, BRANDS, SOLUTIONS. The project is currently on pause due to reasons beyond our control.",
+    "description": "Volunteer project, which is designed to introduce people to Ukrainian culture. I worked on sections: PLACES, BRANDS, SOLUTIONS. We used a ready-made solution as a slider - react-slick. The project is currently on pause due to reasons beyond our control.",
     "deployLink": "https://digitaldreamvolonteerproject.netlify.app/",
     "githubLink": "https://github.com/SerhiiDenysiuk23/DigitalDreamVolonteerProject",
     "screenshotUrl": "./media/screenshots/ua-dna.png",
@@ -81,7 +81,7 @@
   },
   {
     "name": "Pokedex",
-    "description": "A website where you can see a list of Pokemon with their name, avatar, type and the basic stats.",
+    "description": "A website where you can see a list of Pokemon with their name, avatar, type and the basic stats. The useContext and useReducer hooks were used to manage the application state.",
     "deployLink": "https://luxury-squirrel-17d2ba.netlify.app/",
     "githubLink": "https://github.com/SerhiiDenysiuk23/pokedex",
     "screenshotUrl": "./media/screenshots/pokedex.png",
@@ -93,7 +93,7 @@
   },
   {
     "name": "D&L",
-    "description": "Restaurant website where you can view the menu and order delivery. My task was to completely develop the frontend from a figma layout. The project is currently on pause at the request of the customer.",
+    "description": "Restaurant website where you can view the menu and order delivery. My task was to completely develop the frontend from a figma layout. The useContext and useReducer hooks were used to manage the application state. The project is currently on pause at the request of the customer.",
     "deployLink": "https://deft-zabaione-f4be32.netlify.app/",
     "screenshotUrl": "./media/screenshots/d_and_l.png",
     "stack": [
@@ -104,7 +104,7 @@
   },
   {
     "name": "Money Tracker",
-    "description": "This is a money manager - web application for control your expenses and incomes. I worked on the ui/ux of the application, categories and implemented budgets.",
+    "description": "This is a money manager - web application for control your expenses and incomes. The project used CQRS and Event Sourcing, thanks to which it is possible to return the application state from any time. I worked on the ui/ux of the application, categories and implemented budgets.",
     "deployLink": "https://money-tracker-production-7a87.up.railway.app/",
     "githubLink": "https://github.com/botanick02/Money-Tracker",
     "screenshotUrl": "./media/screenshots/money-tracker.png",
