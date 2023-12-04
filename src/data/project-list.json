@@ -127,19 +127,12 @@
     "description": "This is my portfolio. All the projects that I can show are collected here. Follow the Github link if you want to see the code.",
     "deployLink": "https://serhiidenysiukportfolio.netlify.app/",
     "githubLink": "https://github.com/SerhiiDenysiuk23/Portfolio",
-    "screenshotUrl": "./media/screenshots/money-tracker.png",
+    "screenshotUrl": "./media/screenshots/portfolio.png",
     "stack": [
       "TypeScript",
       "React",
       "Redux",
-      "RxJS",
-      "redux-observable",
-      "GraphQL",
-      "SCSS",
-      "ASP.Net",
-      "GraphQL",
-      "Dapper",
-      "MS SQL"
+      "SCSS"
     ]
   }
 ]
