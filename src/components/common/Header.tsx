@@ -50,10 +50,10 @@ const Header = () => {
         {
           isNavExpanded &&
           <ul className={"expanded-nav"}>
-            <li><a href="#">About me</a></li>
-            <li><a href="#skills">Skills</a></li>
-            <li><a href="#projects">Projects</a></li>
-            <li><a href="#contacts">Contacts</a></li>
+            <li onClick={handleToggleMenu}><a href="#">About me</a></li>
+            <li onClick={handleToggleMenu}><a href="#skills">Skills</a></li>
+            <li onClick={handleToggleMenu}><a href="#projects">Projects</a></li>
+            <li onClick={handleToggleMenu}><a href="#contacts">Contacts</a></li>
           </ul>
         }
       </nav>
