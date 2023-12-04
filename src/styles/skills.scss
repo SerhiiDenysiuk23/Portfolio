@@ -27,22 +27,32 @@
   padding: 50px 0;
   gap: 1em;
   justify-content: space-between;
+  text-align: center;
 }
 
 .skills-table1 {
   display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 192px;
   padding: 50px 0;
-  //gap: 2em;
-  row-gap: 2em;
-  justify-content: space-between;
+  row-gap: 1em;
+  column-gap: 1%;
   flex-wrap: wrap;
-  div{
-    width: 25%;
+  text-align: center;
+  @media screen and (max-width: 687px) {
+    height: 228px;
   }
+  @media screen and (max-width: 532px) {
+    height: 300px;
+  }
+  @media screen and (max-width: 470px) {
+    height: auto;
+  }
+
 }
 
 .column {
-  //line-height: 2em;
   display: flex;
   flex-direction: column;
   gap: 20px;

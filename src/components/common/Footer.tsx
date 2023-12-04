@@ -4,6 +4,7 @@ import {ReactComponent as EmailIcon} from "../../assets/icons/email-svgrepo-com.
 import {ReactComponent as GithubIcon} from "../../assets/icons/github-142-svgrepo-com.svg";
 import {ReactComponent as PhoneIcon} from "../../assets/icons/phone-svgrepo-com.svg";
 import {ReactComponent as LinkedInIcon} from "../../assets/icons/linkedin-svgrepo-com.svg";
+import {ReactComponent as GoogleDriveIcon} from "../../assets/icons/google-drive-svgrepo-com.svg";
 
 const Footer = () => {
   return (
@@ -30,6 +31,10 @@ const Footer = () => {
           <a target="_blank" href="https://t.me/green_201">
             <TelegramIcon/>
             <div>@green_201</div>
+          </a>
+          <a target="_blank" href="https://drive.google.com/file/d/1d66mZ3nCymGqaYsCCNzBW7mP6LepcFrH/view?usp=sharing">
+            <GoogleDriveIcon/>
+            <div>CV</div>
           </a>
         </div>
 
