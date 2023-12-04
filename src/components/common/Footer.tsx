@@ -32,7 +32,7 @@ const Footer = () => {
             <TelegramIcon/>
             <div>@green_201</div>
           </a>
-          <a target="_blank" href="https://drive.google.com/file/d/1d66mZ3nCymGqaYsCCNzBW7mP6LepcFrH/view?usp=sharing">
+          <a target="_blank" href="https://drive.google.com/file/d/19kwHjNm8ekkNmlAEhtpK7b6Gnf8ge4ZY/view?usp=sharing">
             <GoogleDriveIcon/>
             <div>CV</div>
           </a>
