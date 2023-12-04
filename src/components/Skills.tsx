@@ -3,7 +3,7 @@ import {default as fe_skills} from '../data/fe-skills.json'
 import {default as be_skills} from '../data/be-skills.json'
 
 const Skills = () => {
-  const [filterValue, setFilterValue] = React.useState<"fe" | "be">("be")
+  const [filterValue, setFilterValue] = React.useState<"fe" | "be">("fe")
 
   const [data, setData] = React.useState(fe_skills)
 
