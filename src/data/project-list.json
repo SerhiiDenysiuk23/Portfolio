@@ -75,6 +75,7 @@
       "TypeScript",
       "React",
       "Apollo Client",
+      "react-slick",
       "SCSS",
       "GraphQL"
     ]
@@ -132,6 +133,21 @@
       "TypeScript",
       "React",
       "Redux",
+      "SCSS"
+    ]
+  },
+  {
+    "name": "Marketing corporation",
+    "description": "landing page of one company. There is a 3D animation on the page, which was implemented with the help of three.js. For sending CV used formspree. The customer was very satisfied with this work.",
+    "deployLink": "https://marketingcorporation.com.ua/",
+    "screenshotUrl": "./media/screenshots/marketing-corp.png",
+    "stack": [
+      "TypeScript",
+      "React",
+      "Redux",
+      "Three.js",
+      "react-slick",
+      "formspree",
       "SCSS"
     ]
   }
