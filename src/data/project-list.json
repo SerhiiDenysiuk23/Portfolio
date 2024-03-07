@@ -106,7 +106,6 @@
   {
     "name": "Money Tracker",
     "description": "This is a money manager - web application for control your expenses and incomes. The project used CQRS and Event Sourcing, thanks to which it is possible to return the application state from any time. I worked on the ui/ux of the application, categories and implemented budgets.",
-    "deployLink": "https://money-tracker-production-7a87.up.railway.app/",
     "githubLink": "https://github.com/botanick02/Money-Tracker",
     "screenshotUrl": "./media/screenshots/money-tracker.png",
     "stack": [
@@ -132,13 +131,12 @@
     "stack": [
       "TypeScript",
       "React",
-      "Redux",
       "SCSS"
     ]
   },
   {
     "name": "Marketing corporation",
-    "description": "landing page of one company. There is a 3D animation on the page, which was implemented with the help of three.js. For sending CV used formspree. The customer was very satisfied with this work.",
+    "description": "Landing page of one company. There is a 3D animation on the page, which was implemented with the help of three.js. For sending CV used formspree. The customer was very satisfied with this work.",
     "deployLink": "https://marketingcorporation.com.ua/",
     "screenshotUrl": "./media/screenshots/marketing-corp.png",
     "stack": [
