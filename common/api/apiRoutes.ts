@@ -1,0 +1,5 @@
+export const LOGIN = 'admin/login'
+export const PROJECTS = 'admin/projects'
+export const SKILLS = 'admin/skills'
+export const GET_SKILL_LIST = 'getSkills'
+export const GET_PROJECT_LIST = 'getProjectList'
